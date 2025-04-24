@@ -65,12 +65,12 @@ async function deleteMusica(id){
 }
 
 const musica = {
-    "nome": "So lets go see the stars",
-    "link": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT",
-    "duracao": "03:01",
-    "data_lancamento": "2024-04-15",
-    "foto_capa": "https://akamai.sscdn.co/uploadfile/letras/albuns/7/f/c/0/1710731695318174.jpg",
-    "letra": "teste na musica"
+    nome: "So lets go see the stars",
+    link: "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT",
+    duracao: "03:01",
+    data_lancamento: "2024-04-15",
+    foto_capa: "https://akamai.sscdn.co/uploadfile/letras/albuns/7/f/c/0/1710731695318174.jpg",
+    letra: "teste na musica" // aqui nem precisa de aspas no começo dos ngc
 }
 
 const att = {
